@@ -12,11 +12,15 @@ Using PyTorch for CNN Model
 
 ### Usage
 
-just run train.py ( Simply modify 'A' to 'B' for different subject )
+download [processed data](https://pan.baidu.com/s/1Tmh2D4oyL8PXKg8y-pI0ow) 提取码: hw8b 
+
+to dataset/ folder
+
+run train.py ( Simply modify 'A' to 'B' for different subject )
 
 ### Model
 
-See Model.py  Vanilla
+See Model.py  'class Vanilla'
 
 ### Dataset
 
